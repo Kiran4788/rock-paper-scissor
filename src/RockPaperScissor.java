@@ -1,5 +1,4 @@
-////TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+
 //This is a simple Rock Paper Scissor game in Java
 import java.util.Random;
 import java.util.Scanner;
